@@ -1,0 +1,3615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>NPCMapCharacters\AdvancedAccessoryMerchant.xml</Source>
+      <Name>NPCMapCharacters\AdvancedAccessoryMerchant</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AdvancedAccessoryMerchant.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Arlan.xml</Source>
+      <Name>NPCMapCharacters\Arlan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Arlan.xnb</Output>
+      <Time>2012-03-31T13:16:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ArlanS.xml</Source>
+      <Name>NPCMapCharacters\ArlanS</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ArlanS.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Bandit1.xml</Source>
+      <Name>NPCMapCharacters\Bandit1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Bandit1.xnb</Output>
+      <Time>2012-08-25T17:17:02.3788274-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Bandit2.xml</Source>
+      <Name>NPCMapCharacters\Bandit2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Bandit2.xnb</Output>
+      <Time>2012-08-25T17:17:02.1778159-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest1.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest1.xnb</Output>
+      <Time>2012-08-25T17:17:02.3688269-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest2.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest2.xnb</Output>
+      <Time>2012-08-25T17:17:02.1718156-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest3.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest3.xnb</Output>
+      <Time>2012-08-25T17:17:02.2108178-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest4.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest4.xnb</Output>
+      <Time>2012-08-25T17:17:02.2518202-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest5.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest5.xnb</Output>
+      <Time>2012-08-25T17:17:02.3698269-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest6.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest6.xnb</Output>
+      <Time>2012-08-25T17:17:02.1748158-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest7.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest7.xnb</Output>
+      <Time>2012-08-25T17:17:02.213818-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansForestChest8.xml</Source>
+      <Name>NPCMapCharacters\BlindMansForestChest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansForestChest8.xnb</Output>
+      <Time>2012-08-25T17:17:02.2528202-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Bob.xml</Source>
+      <Name>NPCMapCharacters\Bob</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Bob.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BoxGame1.xml</Source>
+      <Name>NPCMapCharacters\BoxGame1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BoxGame1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BoxGame2.xml</Source>
+      <Name>NPCMapCharacters\BoxGame2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BoxGame2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BoxGame3.xml</Source>
+      <Name>NPCMapCharacters\BoxGame3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BoxGame3.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BoxGameMan.xml</Source>
+      <Name>NPCMapCharacters\BoxGameMan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BoxGameMan.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BoyMage.xml</Source>
+      <Name>NPCMapCharacters\BoyMage</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BoyMage.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Refman.xml</Source>
+      <Name>NPCMapCharacters\Refman</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Refman.xnb</Output>
+      <Time>2012-08-25T17:17:02.2008173-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Burtle.xml</Source>
+      <Name>NPCMapCharacters\Burtle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Burtle.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Cara.xml</Source>
+      <Name>NPCMapCharacters\Cara</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Cara.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CarasChest.xml</Source>
+      <Name>NPCMapCharacters\CarasChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CarasChest.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest1.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest10.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest10</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest10.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest11.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest11</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest11.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest12.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest12</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest12.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest13.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest13</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest13.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest14.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest14</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest14.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest15.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest15</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest15.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest16.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest16</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest16.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest17.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest17</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest17.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest2.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest3.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest4.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest4.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest5.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest5.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest6.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest6.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest7.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest7.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest8.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest8.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest9.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest9.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Chepetawa.xml</Source>
+      <Name>NPCMapCharacters\Chepetawa</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Chepetawa.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Citizen1.xml</Source>
+      <Name>NPCMapCharacters\Citizen1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Citizen1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Clark.xml</Source>
+      <Name>NPCMapCharacters\Clark</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Clark.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CloakedArlan.xml</Source>
+      <Name>NPCMapCharacters\CloakedArlan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CloakedArlan.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Curator.xml</Source>
+      <Name>NPCMapCharacters\Curator</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Curator.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\DeadGateGuard.xml</Source>
+      <Name>NPCMapCharacters\DeadGateGuard</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\DeadGateGuard.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\DeadKing.xml</Source>
+      <Name>NPCMapCharacters\DeadKing</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\DeadKing.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\DeadMax.xml</Source>
+      <Name>NPCMapCharacters\DeadMax</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\DeadMax.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\DeadSid.xml</Source>
+      <Name>NPCMapCharacters\DeadSid</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\DeadSid.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\DistressedGirl.xml</Source>
+      <Name>NPCMapCharacters\DistressedGirl</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\DistressedGirl.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Drifter.xml</Source>
+      <Name>NPCMapCharacters\Drifter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Drifter.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\EmptyBoxGame1.xml</Source>
+      <Name>NPCMapCharacters\EmptyBoxGame1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\EmptyBoxGame1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\EmptyBoxGame2.xml</Source>
+      <Name>NPCMapCharacters\EmptyBoxGame2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\EmptyBoxGame2.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\EmptyBoxGame3.xml</Source>
+      <Name>NPCMapCharacters\EmptyBoxGame3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\EmptyBoxGame3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Endor.xml</Source>
+      <Name>NPCMapCharacters\Endor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Endor.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Farmer.xml</Source>
+      <Name>NPCMapCharacters\Farmer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Farmer.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest1.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest2.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest2.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest3.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest4.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest4.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest5.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest5.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest6.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest6.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest7.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest7.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernHighChest8.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernHighChest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernHighChest8.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest1.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest10.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest10</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest10.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest11.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest11</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest11.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest12.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest12</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest12.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest13.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest13</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest13.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest14.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest14</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest14.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest15.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest15</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest15.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest2.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest3.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest3.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest4.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest4.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest5.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest5.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest6.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest6.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest7.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest7.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest8.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest8.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernLowChest9.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernLowChest9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernLowChest9.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomAChest1.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomAChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomAChest1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomAChest2.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomAChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomAChest2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomAChest3.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomAChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomAChest3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomBGroundChest1.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomBGroundChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomBGroundChest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomBGroundChest2.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomBGroundChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomBGroundChest2.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomBGroundChest3.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomBGroundChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomBGroundChest3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomBLedgeChest.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomBLedgeChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomBLedgeChest.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomCChest.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomCChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomCChest.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomDChest.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomDChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomDChest.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomEChest.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomEChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomEChest.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ForbiddenCavernRoomFChest.xml</Source>
+      <Name>NPCMapCharacters\ForbiddenCavernRoomFChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ForbiddenCavernRoomFChest.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Friend1.xml</Source>
+      <Name>NPCMapCharacters\Friend1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Friend1.xnb</Output>
+      <Time>2012-05-06T02:57:42.2732166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Friend2.xml</Source>
+      <Name>NPCMapCharacters\Friend2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Friend2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\GateGuard1.xml</Source>
+      <Name>NPCMapCharacters\GateGuard1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\GateGuard1.xnb</Output>
+      <Time>2012-08-25T17:17:02.2238186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\GateGuard2.xml</Source>
+      <Name>NPCMapCharacters\GateGuard2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\GateGuard2.xnb</Output>
+      <Time>2012-08-25T17:17:02.3118236-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Grandson.xml</Source>
+      <Name>NPCMapCharacters\Grandson</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Grandson.xnb</Output>
+      <Time>2012-08-25T17:17:02.2428197-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Greeter.xml</Source>
+      <Name>NPCMapCharacters\Greeter</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Greeter.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\GuardExplosion.xml</Source>
+      <Name>NPCMapCharacters\GuardExplosion</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\GuardExplosion.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HappyGuy.xml</Source>
+      <Name>NPCMapCharacters\HappyGuy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HappyGuy.xnb</Output>
+      <Time>2012-03-07T18:11:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersBlacksmith.xml</Source>
+      <Name>NPCMapCharacters\HealersBlacksmith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersBlacksmith.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInnClerk.xml</Source>
+      <Name>NPCMapCharacters\HealersInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleBlacksmith.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleBlacksmith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleBlacksmith.xnb</Output>
+      <Time>2012-06-04T21:22:14.5612528-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleInnClerk.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleInnClerk.xnb</Output>
+      <Time>2012-06-04T21:22:14.5632529-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleItemClerk.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleItemClerk.xnb</Output>
+      <Time>2012-06-04T21:22:14.5592527-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersItemClerk.xml</Source>
+      <Name>NPCMapCharacters\HealersItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Helena.xml</Source>
+      <Name>NPCMapCharacters\Helena</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Helena.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\InjuredGateGuard.xml</Source>
+      <Name>NPCMapCharacters\InjuredGateGuard</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\InjuredGateGuard.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\InvisibleSeedMerchant.xml</Source>
+      <Name>NPCMapCharacters\InvisibleSeedMerchant</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\InvisibleSeedMerchant.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Jannie.xml</Source>
+      <Name>NPCMapCharacters\Jannie</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Jannie.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Jannie_RippedTippers.xml</Source>
+      <Name>NPCMapCharacters\Jannie_RippedTippers</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Jannie_RippedTippers.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Jannie_Tippers.xml</Source>
+      <Name>NPCMapCharacters\Jannie_Tippers</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Jannie_Tippers.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\JealousBoy.xml</Source>
+      <Name>NPCMapCharacters\JealousBoy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\JealousBoy.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\JealousGirl.xml</Source>
+      <Name>NPCMapCharacters\JealousGirl</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\JealousGirl.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Jessica.xml</Source>
+      <Name>NPCMapCharacters\Jessica</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Jessica.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\JessicaSick.xml</Source>
+      <Name>NPCMapCharacters\JessicaSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\JessicaSick.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Keepf2Chest.xml</Source>
+      <Name>NPCMapCharacters\Keepf2Chest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Keepf2Chest.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\King.xml</Source>
+      <Name>NPCMapCharacters\King</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\King.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library1Chest1.xml</Source>
+      <Name>NPCMapCharacters\Library1Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library1Chest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library1Chest2.xml</Source>
+      <Name>NPCMapCharacters\Library1Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library1Chest2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library1Chest3.xml</Source>
+      <Name>NPCMapCharacters\Library1Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library1Chest3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library2Chest1.xml</Source>
+      <Name>NPCMapCharacters\Library2Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library2Chest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library2Chest2.xml</Source>
+      <Name>NPCMapCharacters\Library2Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library2Chest2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library2Chest3.xml</Source>
+      <Name>NPCMapCharacters\Library2Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library2Chest3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library2Chest4.xml</Source>
+      <Name>NPCMapCharacters\Library2Chest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library2Chest4.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library3Chest1.xml</Source>
+      <Name>NPCMapCharacters\Library3Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library3Chest1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library3Chest2.xml</Source>
+      <Name>NPCMapCharacters\Library3Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library3Chest2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library3Chest3.xml</Source>
+      <Name>NPCMapCharacters\Library3Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library3Chest3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library3Chest4.xml</Source>
+      <Name>NPCMapCharacters\Library3Chest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library3Chest4.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library3Chest5.xml</Source>
+      <Name>NPCMapCharacters\Library3Chest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library3Chest5.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library4Chest1.xml</Source>
+      <Name>NPCMapCharacters\Library4Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library4Chest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library4Chest2.xml</Source>
+      <Name>NPCMapCharacters\Library4Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library4Chest2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library4Chest3.xml</Source>
+      <Name>NPCMapCharacters\Library4Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library4Chest3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Library5Chest1.xml</Source>
+      <Name>NPCMapCharacters\Library5Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Library5Chest1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\LostBoy.xml</Source>
+      <Name>NPCMapCharacters\LostBoy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\LostBoy.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\LostItem.xml</Source>
+      <Name>NPCMapCharacters\LostItem</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\LostItem.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\LostToy.xml</Source>
+      <Name>NPCMapCharacters\LostToy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\LostToy.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Lydia.xml</Source>
+      <Name>NPCMapCharacters\Lydia</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Lydia.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesBlacksmith.xml</Source>
+      <Name>NPCMapCharacters\MagesBlacksmith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesBlacksmith.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInnClerk.xml</Source>
+      <Name>NPCMapCharacters\MagesInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInvisibleInnClerk.xml</Source>
+      <Name>NPCMapCharacters\MagesInvisibleInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInvisibleInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInvisibleInnClerk2.xml</Source>
+      <Name>NPCMapCharacters\MagesInvisibleInnClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInvisibleInnClerk2.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInvisibleInnClerk3.xml</Source>
+      <Name>NPCMapCharacters\MagesInvisibleInnClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInvisibleInnClerk3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInvisibleItemClerk.xml</Source>
+      <Name>NPCMapCharacters\MagesInvisibleItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInvisibleItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInvisibleItemClerk2.xml</Source>
+      <Name>NPCMapCharacters\MagesInvisibleItemClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInvisibleItemClerk2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesInvisibleItemClerk3.xml</Source>
+      <Name>NPCMapCharacters\MagesInvisibleItemClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesInvisibleItemClerk3.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MagesItemClerk.xml</Source>
+      <Name>NPCMapCharacters\MagesItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MagesItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MansionGuard1.xml</Source>
+      <Name>NPCMapCharacters\MansionGuard1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MansionGuard1.xnb</Output>
+      <Time>2012-08-25T17:17:02.1988172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MansionGuard2.xml</Source>
+      <Name>NPCMapCharacters\MansionGuard2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MansionGuard2.xnb</Output>
+      <Time>2012-08-25T17:17:02.2408196-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MansionOwner1.xml</Source>
+      <Name>NPCMapCharacters\MansionOwner1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MansionOwner1.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mary.xml</Source>
+      <Name>NPCMapCharacters\Mary</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mary.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmith.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmith.xnb</Output>
+      <Time>2012-09-10T02:45:40.507885-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mayor.xml</Source>
+      <Name>NPCMapCharacters\Mayor</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mayor.xnb</Output>
+      <Time>2012-09-16T17:13:29.1830044-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Merchant1.xml</Source>
+      <Name>NPCMapCharacters\Merchant1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Merchant1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Merchant2.xml</Source>
+      <Name>NPCMapCharacters\Merchant2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Merchant2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Merchant3.xml</Source>
+      <Name>NPCMapCharacters\Merchant3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Merchant3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MissplacedBook.xml</Source>
+      <Name>NPCMapCharacters\MissplacedBook</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MissplacedBook.xnb</Output>
+      <Time>2012-09-10T02:45:40.5018846-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MissplacedBookMan.xml</Source>
+      <Name>NPCMapCharacters\MissplacedBookMan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MissplacedBookMan.xnb</Output>
+      <Time>2012-03-07T18:11:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mole.xml</Source>
+      <Name>NPCMapCharacters\Mole</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mole.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MoleTrainer.xml</Source>
+      <Name>NPCMapCharacters\MoleTrainer</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MoleTrainer.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MonsterChest.xml</Source>
+      <Name>NPCMapCharacters\MonsterChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MonsterChest.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mother.xml</Source>
+      <Name>NPCMapCharacters\Mother</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mother.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mushroom1.xml</Source>
+      <Name>NPCMapCharacters\Mushroom1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mushroom1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mushroom2.xml</Source>
+      <Name>NPCMapCharacters\Mushroom2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mushroom2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mushroom3.xml</Source>
+      <Name>NPCMapCharacters\Mushroom3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mushroom3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Mushroom4.xml</Source>
+      <Name>NPCMapCharacters\Mushroom4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Mushroom4.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MushroomForestChest1.xml</Source>
+      <Name>NPCMapCharacters\MushroomForestChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MushroomForestChest1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MushroomForestChest2.xml</Source>
+      <Name>NPCMapCharacters\MushroomForestChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MushroomForestChest2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MushroomForestChest3.xml</Source>
+      <Name>NPCMapCharacters\MushroomForestChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MushroomForestChest3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MushroomForestChest4.xml</Source>
+      <Name>NPCMapCharacters\MushroomForestChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MushroomForestChest4.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MushroomForestChest5.xml</Source>
+      <Name>NPCMapCharacters\MushroomForestChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MushroomForestChest5.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MushroomForestChest6.xml</Source>
+      <Name>NPCMapCharacters\MushroomForestChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MushroomForestChest6.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MysteriaPlant.xml</Source>
+      <Name>NPCMapCharacters\MysteriaPlant</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MysteriaPlant.xnb</Output>
+      <Time>2012-08-25T17:17:02.2258187-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\NathanInjured.xml</Source>
+      <Name>NPCMapCharacters\NathanInjured</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\NathanInjured.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Noculus.xml</Source>
+      <Name>NPCMapCharacters\Noculus</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Noculus.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OldLady.xml</Source>
+      <Name>NPCMapCharacters\OldLady</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OldLady.xnb</Output>
+      <Time>2012-09-16T17:13:29.1830044-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\oldman.xml</Source>
+      <Name>NPCMapCharacters\oldman</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\oldman.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest1.xml</Source>
+      <Name>NPCMapCharacters\OpenChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest1.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest10.xml</Source>
+      <Name>NPCMapCharacters\OpenChest10</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest10.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest11.xml</Source>
+      <Name>NPCMapCharacters\OpenChest11</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest11.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest12.xml</Source>
+      <Name>NPCMapCharacters\OpenChest12</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest12.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest13.xml</Source>
+      <Name>NPCMapCharacters\OpenChest13</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest13.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest14.xml</Source>
+      <Name>NPCMapCharacters\OpenChest14</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest14.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest15.xml</Source>
+      <Name>NPCMapCharacters\OpenChest15</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest15.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest2.xml</Source>
+      <Name>NPCMapCharacters\OpenChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest3.xml</Source>
+      <Name>NPCMapCharacters\OpenChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest4.xml</Source>
+      <Name>NPCMapCharacters\OpenChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest4.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest5.xml</Source>
+      <Name>NPCMapCharacters\OpenChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest5.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest6.xml</Source>
+      <Name>NPCMapCharacters\OpenChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest6.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest7.xml</Source>
+      <Name>NPCMapCharacters\OpenChest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest7.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest8.xml</Source>
+      <Name>NPCMapCharacters\OpenChest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest8.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest9.xml</Source>
+      <Name>NPCMapCharacters\OpenChest9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest9.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Parker.xml</Source>
+      <Name>NPCMapCharacters\Parker</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Parker.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ParkerSick.xml</Source>
+      <Name>NPCMapCharacters\ParkerSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ParkerSick.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Peeper.xml</Source>
+      <Name>NPCMapCharacters\Peeper</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Peeper.xnb</Output>
+      <Time>2012-03-07T18:11:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\PickPocket.xml</Source>
+      <Name>NPCMapCharacters\PickPocket</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\PickPocket.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\PoorGuy.xml</Source>
+      <Name>NPCMapCharacters\PoorGuy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\PoorGuy.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Queen.xml</Source>
+      <Name>NPCMapCharacters\Queen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Queen.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RareSeeds.xml</Source>
+      <Name>NPCMapCharacters\RareSeeds</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RareSeeds.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Rema.xml</Source>
+      <Name>NPCMapCharacters\Rema</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Rema.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Rendil.xml</Source>
+      <Name>NPCMapCharacters\Rendil</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Rendil.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RiftKey.xml</Source>
+      <Name>NPCMapCharacters\RiftKey</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RiftKey.xnb</Output>
+      <Time>2012-09-10T02:45:40.5038847-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RiftMan.xml</Source>
+      <Name>NPCMapCharacters\RiftMan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RiftMan.xnb</Output>
+      <Time>2012-03-07T18:11:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RiftManChest.xml</Source>
+      <Name>NPCMapCharacters\RiftManChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RiftManChest.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RiftNote1.xml</Source>
+      <Name>NPCMapCharacters\RiftNote1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RiftNote1.xnb</Output>
+      <Time>2012-09-10T02:45:40.5008846-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RiftNote2.xml</Source>
+      <Name>NPCMapCharacters\RiftNote2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RiftNote2.xnb</Output>
+      <Time>2012-09-10T02:45:40.5068849-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RiftPortal.xml</Source>
+      <Name>NPCMapCharacters\RiftPortal</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RiftPortal.xnb</Output>
+      <Time>2012-03-14T19:42:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Ruith.xml</Source>
+      <Name>NPCMapCharacters\Ruith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Ruith.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SadGuy.xml</Source>
+      <Name>NPCMapCharacters\SadGuy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SadGuy.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Sarah.xml</Source>
+      <Name>NPCMapCharacters\Sarah</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Sarah.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SarahSick.xml</Source>
+      <Name>NPCMapCharacters\SarahSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SarahSick.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SavedGirl.xml</Source>
+      <Name>NPCMapCharacters\SavedGirl</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SavedGirl.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ScaredCivilian1.xml</Source>
+      <Name>NPCMapCharacters\ScaredCivilian1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ScaredCivilian1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ScriptedMonster1.xml</Source>
+      <Name>NPCMapCharacters\ScriptedMonster1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ScriptedMonster1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ScriptedMonster2.xml</Source>
+      <Name>NPCMapCharacters\ScriptedMonster2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ScriptedMonster2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ScriptedMonster3.xml</Source>
+      <Name>NPCMapCharacters\ScriptedMonster3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ScriptedMonster3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SeedMerchant.xml</Source>
+      <Name>NPCMapCharacters\SeedMerchant</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SeedMerchant.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Serlynx.xml</Source>
+      <Name>NPCMapCharacters\Serlynx</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Serlynx.xnb</Output>
+      <Time>2012-08-25T17:17:02.2118179-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest1.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest10.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest10</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest10.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest11.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest11</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest11.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest12.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest12</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest12.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest13.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest13</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest13.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest2.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest3.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest3.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest4.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest4.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest5.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest5.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest6.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest6.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest7.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest7.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest8.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest8.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SewnBogChest9.xml</Source>
+      <Name>NPCMapCharacters\SewnBogChest9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SewnBogChest9.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SickGrandson.xml</Source>
+      <Name>NPCMapCharacters\SickGrandson</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SickGrandson.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SkinGuy.xml</Source>
+      <Name>NPCMapCharacters\SkinGuy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SkinGuy.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowMan.xml</Source>
+      <Name>NPCMapCharacters\SnowMan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowMan.xnb</Output>
+      <Time>2012-03-07T18:11:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc1.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc2.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc3.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc4.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc4.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc5.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc5.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc6.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc6.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownNpc7.xml</Source>
+      <Name>NPCMapCharacters\SnowTownNpc7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownNpc7.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Soldier1.xml</Source>
+      <Name>NPCMapCharacters\Soldier1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Soldier1.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Soldier2.xml</Source>
+      <Name>NPCMapCharacters\Soldier2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Soldier2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StolenItem1.xml</Source>
+      <Name>NPCMapCharacters\StolenItem1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StolenItem1.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StolenItem2.xml</Source>
+      <Name>NPCMapCharacters\StolenItem2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StolenItem2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StolenItem3.xml</Source>
+      <Name>NPCMapCharacters\StolenItem3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StolenItem3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StolenItem4.xml</Source>
+      <Name>NPCMapCharacters\StolenItem4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StolenItem4.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StolenItem5.xml</Source>
+      <Name>NPCMapCharacters\StolenItem5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StolenItem5.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StolenItem6.xml</Source>
+      <Name>NPCMapCharacters\StolenItem6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StolenItem6.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Stub.xml</Source>
+      <Name>NPCMapCharacters\Stub</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Stub.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\suspiciousguy.xml</Source>
+      <Name>NPCMapCharacters\suspiciousguy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\suspiciousguy.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampBoy.xml</Source>
+      <Name>NPCMapCharacters\SwampBoy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampBoy.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampBoySick.xml</Source>
+      <Name>NPCMapCharacters\SwampBoySick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampBoySick.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampGirl.xml</Source>
+      <Name>NPCMapCharacters\SwampGirl</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampGirl.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampGirlSick.xml</Source>
+      <Name>NPCMapCharacters\SwampGirlSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampGirlSick.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInnClerk.xml</Source>
+      <Name>NPCMapCharacters\SwampInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInvisibleInnClerk.xml</Source>
+      <Name>NPCMapCharacters\SwampInvisibleInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInvisibleInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInvisibleInnClerk2.xml</Source>
+      <Name>NPCMapCharacters\SwampInvisibleInnClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInvisibleInnClerk2.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInvisibleInnClerk3.xml</Source>
+      <Name>NPCMapCharacters\SwampInvisibleInnClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInvisibleInnClerk3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInvisibleItemClerk.xml</Source>
+      <Name>NPCMapCharacters\SwampInvisibleItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInvisibleItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInvisibleItemClerk2.xml</Source>
+      <Name>NPCMapCharacters\SwampInvisibleItemClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInvisibleItemClerk2.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampInvisibleItemClerk3.xml</Source>
+      <Name>NPCMapCharacters\SwampInvisibleItemClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampInvisibleItemClerk3.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampItemClerk.xml</Source>
+      <Name>NPCMapCharacters\SwampItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampOldMan.xml</Source>
+      <Name>NPCMapCharacters\SwampOldMan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampOldMan.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampOldManSick.xml</Source>
+      <Name>NPCMapCharacters\SwampOldManSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampOldManSick.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampOldWoman.xml</Source>
+      <Name>NPCMapCharacters\SwampOldWoman</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampOldWoman.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampOldWomanSick.xml</Source>
+      <Name>NPCMapCharacters\SwampOldWomanSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampOldWomanSick.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampQueen.xml</Source>
+      <Name>NPCMapCharacters\SwampQueen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampQueen.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SwampQueenSick.xml</Source>
+      <Name>NPCMapCharacters\SwampQueenSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SwampQueenSick.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\TagKid.xml</Source>
+      <Name>NPCMapCharacters\TagKid</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\TagKid.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Tippers.xml</Source>
+      <Name>NPCMapCharacters\Tippers</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Tippers.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ToyMonster.xml</Source>
+      <Name>NPCMapCharacters\ToyMonster</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ToyMonster.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\TrappedGirl.xml</Source>
+      <Name>NPCMapCharacters\TrappedGirl</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\TrappedGirl.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\UpsetBoy.xml</Source>
+      <Name>NPCMapCharacters\UpsetBoy</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\UpsetBoy.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Vidulus.xml</Source>
+      <Name>NPCMapCharacters\Vidulus</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Vidulus.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\VillageIdiot.xml</Source>
+      <Name>NPCMapCharacters\VillageIdiot</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\VillageIdiot.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\VillageIdiotSick.xml</Source>
+      <Name>NPCMapCharacters\VillageIdiotSick</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\VillageIdiotSick.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Wesley.xml</Source>
+      <Name>NPCMapCharacters\Wesley</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Wesley.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Will.xml</Source>
+      <Name>NPCMapCharacters\Will</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Will.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\WillsBlacksmith.xml</Source>
+      <Name>NPCMapCharacters\WillsBlacksmith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\WillsBlacksmith.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\WillsInnClerk.xml</Source>
+      <Name>NPCMapCharacters\WillsInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\WillsInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\WillsInvisibleBlacksmith.xml</Source>
+      <Name>NPCMapCharacters\WillsInvisibleBlacksmith</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\WillsInvisibleBlacksmith.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\WillsInvisibleInnClerk.xml</Source>
+      <Name>NPCMapCharacters\WillsInvisibleInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\WillsInvisibleInnClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\WillsInvisibleItemClerk.xml</Source>
+      <Name>NPCMapCharacters\WillsInvisibleItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\WillsInvisibleItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\WillsItemClerk.xml</Source>
+      <Name>NPCMapCharacters\WillsItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\WillsItemClerk.xnb</Output>
+      <Time>2012-02-24T12:34:14-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PCMapCharacters\Nathan.xml</Source>
+      <Name>PCMapCharacters\Nathan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\PCMapCharacters\Nathan.xnb</Output>
+      <Time>2012-02-24T12:34:10-08:00</Time>
+    </Item>
+    <Item>
+      <Source>PCMapCharacters\PCCara.xml</Source>
+      <Name>PCMapCharacters\PCCara</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\PCMapCharacters\PCCara.xnb</Output>
+      <Time>2012-02-24T12:34:10-08:00</Time>
+    </Item>
+    <Item>
+      <Source>RiftManChest.xml</Source>
+      <Name>RiftManChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\RiftManChest.xnb</Output>
+      <Time>2012-02-24T12:34:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\TimidWoman.xml</Source>
+      <Name>NPCMapCharacters\TimidWoman</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\TimidWoman.xnb</Output>
+      <Time>2012-03-03T14:11:34-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Torch1.xml</Source>
+      <Name>NPCMapCharacters\Torch1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Torch1.xnb</Output>
+      <Time>2012-03-03T14:48:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\UncleArlan.xml</Source>
+      <Name>NPCMapCharacters\UncleArlan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\UncleArlan.xnb</Output>
+      <Time>2012-03-31T13:16:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraKeyChest.xml</Source>
+      <Name>NPCMapCharacters\AgoraKeyChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraKeyChest.xnb</Output>
+      <Time>2012-05-06T02:57:42.2672163-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraChestRooftop.xml</Source>
+      <Name>NPCMapCharacters\AgoraChestRooftop</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraChestRooftop.xnb</Output>
+      <Time>2012-05-06T02:57:42.2592158-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraChestAnteroom.xml</Source>
+      <Name>NPCMapCharacters\AgoraChestAnteroom</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraChestAnteroom.xnb</Output>
+      <Time>2012-05-06T02:57:42.2862174-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraChestRoom4.xml</Source>
+      <Name>NPCMapCharacters\AgoraChestRoom4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraChestRoom4.xnb</Output>
+      <Time>2012-05-06T02:57:42.2702164-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraChestMazeG4.xml</Source>
+      <Name>NPCMapCharacters\AgoraChestMazeG4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraChestMazeG4.xnb</Output>
+      <Time>2012-05-06T02:57:42.2812171-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraChestRoom5.xml</Source>
+      <Name>NPCMapCharacters\AgoraChestRoom5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraChestRoom5.xnb</Output>
+      <Time>2012-05-06T02:57:42.2842172-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AgoraChestRoom6.xml</Source>
+      <Name>NPCMapCharacters\AgoraChestRoom6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AgoraChestRoom6.xnb</Output>
+      <Time>2012-05-06T02:57:42.263216-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Apprentice1.xml</Source>
+      <Name>NPCMapCharacters\Apprentice1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Apprentice1.xnb</Output>
+      <Time>2012-05-06T02:57:42.2682163-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ElderMantis.xml</Source>
+      <Name>NPCMapCharacters\ElderMantis</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ElderMantis.xnb</Output>
+      <Time>2012-05-06T02:57:42.2652162-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Apprentice2.xml</Source>
+      <Name>NPCMapCharacters\Apprentice2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Apprentice2.xnb</Output>
+      <Time>2012-05-06T02:57:42.2712165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>PCMapCharacters\PCWill.xml</Source>
+      <Name>PCMapCharacters\PCWill</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\PCMapCharacters\PCWill.xnb</Output>
+      <Time>2012-05-06T02:57:42.1142075-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\EndorNight.xml</Source>
+      <Name>NPCMapCharacters\EndorNight</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\EndorNight.xnb</Output>
+      <Time>2012-05-06T02:57:42.262216-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RuithNight.xml</Source>
+      <Name>NPCMapCharacters\RuithNight</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RuithNight.xnb</Output>
+      <Time>2012-05-06T02:57:42.2822171-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleInnClerk2.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleInnClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleInnClerk2.xnb</Output>
+      <Time>2012-06-04T21:22:14.5512523-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleInnClerk3.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleInnClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleInnClerk3.xnb</Output>
+      <Time>2012-06-04T21:22:14.5572526-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleInnClerk4.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleInnClerk4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleInnClerk4.xnb</Output>
+      <Time>2012-06-04T21:22:14.564253-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleItemClerk2.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleItemClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleItemClerk2.xnb</Output>
+      <Time>2012-06-04T21:22:14.5662531-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleItemClerk3.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleItemClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleItemClerk3.xnb</Output>
+      <Time>2012-06-04T21:22:14.5702533-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleItemClerk4.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleItemClerk4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleItemClerk4.xnb</Output>
+      <Time>2012-06-04T21:22:14.5532524-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleBlacksmith2.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleBlacksmith2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleBlacksmith2.xnb</Output>
+      <Time>2012-06-04T21:22:14.5682532-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleBlacksmith4.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleBlacksmith4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleBlacksmith4.xnb</Output>
+      <Time>2012-06-04T21:22:14.5552525-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\HealersInvisibleBlacksmith3.xml</Source>
+      <Name>NPCMapCharacters\HealersInvisibleBlacksmith3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\HealersInvisibleBlacksmith3.xnb</Output>
+      <Time>2012-06-04T21:22:14.5492521-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\NegaWill.xml</Source>
+      <Name>NPCMapCharacters\NegaWill</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\NegaWill.xnb</Output>
+      <Time>2012-06-04T21:22:14.5482521-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave1Chest1.xml</Source>
+      <Name>NPCMapCharacters\RandomCave1Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave1Chest1.xnb</Output>
+      <Time>2012-06-18T22:43:32.7495947-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave1Chest2.xml</Source>
+      <Name>NPCMapCharacters\RandomCave1Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave1Chest2.xnb</Output>
+      <Time>2012-06-18T22:43:32.7495947-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave1Chest3.xml</Source>
+      <Name>NPCMapCharacters\RandomCave1Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave1Chest3.xnb</Output>
+      <Time>2012-06-18T22:43:32.7495947-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave2Chest3.xml</Source>
+      <Name>NPCMapCharacters\RandomCave2Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave2Chest3.xnb</Output>
+      <Time>2012-08-25T17:17:02.3668268-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave2Chest2.xml</Source>
+      <Name>NPCMapCharacters\RandomCave2Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave2Chest2.xnb</Output>
+      <Time>2012-08-25T17:17:02.2468199-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave2Chest1.xml</Source>
+      <Name>NPCMapCharacters\RandomCave2Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave2Chest1.xnb</Output>
+      <Time>2012-08-25T17:17:02.2038174-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\KingNorth.xml</Source>
+      <Name>NPCMapCharacters\KingNorth</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\KingNorth.xnb</Output>
+      <Time>2012-08-25T17:17:02.3038232-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInnClerk.xml</Source>
+      <Name>NPCMapCharacters\SnowInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInnClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.3738272-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowItemClerk.xml</Source>
+      <Name>NPCMapCharacters\SnowItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowItemClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.2988229-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInvisibleInnClerk.xml</Source>
+      <Name>NPCMapCharacters\SnowInvisibleInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInvisibleInnClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.2458198-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInvisibleInnClerk2.xml</Source>
+      <Name>NPCMapCharacters\SnowInvisibleInnClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInvisibleInnClerk2.xnb</Output>
+      <Time>2012-08-25T17:17:02.1938169-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInvisibleInnClerk3.xml</Source>
+      <Name>NPCMapCharacters\SnowInvisibleInnClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInvisibleInnClerk3.xnb</Output>
+      <Time>2012-08-25T17:17:02.2378194-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInvisibleItemClerk.xml</Source>
+      <Name>NPCMapCharacters\SnowInvisibleItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInvisibleItemClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.2498201-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInvisibleItemClerk2.xml</Source>
+      <Name>NPCMapCharacters\SnowInvisibleItemClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInvisibleItemClerk2.xnb</Output>
+      <Time>2012-08-25T17:17:02.4038289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowInvisibleItemClerk3.xml</Source>
+      <Name>NPCMapCharacters\SnowInvisibleItemClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowInvisibleItemClerk3.xnb</Output>
+      <Time>2012-08-25T17:17:02.1798161-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RandomCave3Chest1.xml</Source>
+      <Name>NPCMapCharacters\RandomCave3Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RandomCave3Chest1.xnb</Output>
+      <Time>2012-08-25T17:17:02.4008287-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeItemClerk.xml</Source>
+      <Name>NPCMapCharacters\RefugeeItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeItemClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.2778217-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInnClerk.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInnClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.1758158-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInvisibleInnClerk.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInvisibleInnClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInvisibleInnClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.2438197-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInvisibleInnClerk2.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInvisibleInnClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInvisibleInnClerk2.xnb</Output>
+      <Time>2012-08-25T17:17:02.4358307-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInvisibleInnClerk3.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInvisibleInnClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInvisibleInnClerk3.xnb</Output>
+      <Time>2012-08-25T17:17:02.1898166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInvisibleItemClerk.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInvisibleItemClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInvisibleItemClerk.xnb</Output>
+      <Time>2012-08-25T17:17:02.2098178-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInvisibleItemClerk2.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInvisibleItemClerk2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInvisibleItemClerk2.xnb</Output>
+      <Time>2012-08-25T17:17:02.2198184-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefugeeInvisibleItemClerk3.xml</Source>
+      <Name>NPCMapCharacters\RefugeeInvisibleItemClerk3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefugeeInvisibleItemClerk3.xnb</Output>
+      <Time>2012-08-25T17:17:02.3058233-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ScarfBandit.xml</Source>
+      <Name>NPCMapCharacters\ScarfBandit</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ScarfBandit.xnb</Output>
+      <Time>2012-08-25T17:17:02.2068176-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BanditKing.xml</Source>
+      <Name>NPCMapCharacters\BanditKing</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BanditKing.xnb</Output>
+      <Time>2012-08-25T17:17:02.4488315-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Bandit3.xml</Source>
+      <Name>NPCMapCharacters\Bandit3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Bandit3.xnb</Output>
+      <Time>2012-08-25T17:17:02.2178182-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Bandit4.xml</Source>
+      <Name>NPCMapCharacters\Bandit4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Bandit4.xnb</Output>
+      <Time>2012-08-25T17:17:02.2788217-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SpadeBandit.xml</Source>
+      <Name>NPCMapCharacters\SpadeBandit</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SpadeBandit.xnb</Output>
+      <Time>2012-08-25T17:17:02.2548204-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\BlindMansCaveChest.xml</Source>
+      <Name>NPCMapCharacters\BlindMansCaveChest</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\BlindMansCaveChest.xnb</Output>
+      <Time>2012-08-25T17:17:02.3968285-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Bill.xml</Source>
+      <Name>NPCMapCharacters\Bill</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Bill.xnb</Output>
+      <Time>2012-08-25T17:17:02.405829-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Burlam.xml</Source>
+      <Name>NPCMapCharacters\Burlam</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Burlam.xnb</Output>
+      <Time>2012-02-24T12:34:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Reflady.xml</Source>
+      <Name>NPCMapCharacters\Reflady</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Reflady.xnb</Output>
+      <Time>2012-08-25T17:17:02.3348249-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefGuard1.xml</Source>
+      <Name>NPCMapCharacters\RefGuard1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefGuard1.xnb</Output>
+      <Time>2012-08-25T17:17:02.2558204-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\RefGuard2.xml</Source>
+      <Name>NPCMapCharacters\RefGuard2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\RefGuard2.xnb</Output>
+      <Time>2012-08-25T17:17:02.3758273-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownChest1.xml</Source>
+      <Name>NPCMapCharacters\SnowTownChest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownChest1.xnb</Output>
+      <Time>2012-08-25T17:17:02.371827-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownChest3.xml</Source>
+      <Name>NPCMapCharacters\SnowTownChest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownChest3.xnb</Output>
+      <Time>2012-08-25T17:17:02.2158181-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\SnowTownChest2.xml</Source>
+      <Name>NPCMapCharacters\SnowTownChest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\SnowTownChest2.xnb</Output>
+      <Time>2012-08-25T17:17:02.1738157-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\CaveLabyrinthChest18.xml</Source>
+      <Name>NPCMapCharacters\CaveLabyrinthChest18</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\CaveLabyrinthChest18.xnb</Output>
+      <Time>2012-08-25T17:17:02.3948284-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest18.xml</Source>
+      <Name>NPCMapCharacters\OpenChest18</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest18.xnb</Output>
+      <Time>2012-08-25T17:17:02.300823-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest16.xml</Source>
+      <Name>NPCMapCharacters\OpenChest16</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest16.xnb</Output>
+      <Time>2012-08-25T17:17:02.178816-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest17.xml</Source>
+      <Name>NPCMapCharacters\OpenChest17</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest17.xnb</Output>
+      <Time>2012-08-25T17:17:02.2188183-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest1.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest1.xnb</Output>
+      <Time>2012-08-25T17:17:02.1828162-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest2.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest2.xnb</Output>
+      <Time>2012-08-25T17:17:02.2248186-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest3.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest3.xnb</Output>
+      <Time>2012-08-25T17:17:02.3168239-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest4.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest4.xnb</Output>
+      <Time>2012-08-25T17:17:02.4118293-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest5.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest5.xnb</Output>
+      <Time>2012-08-25T17:17:02.1848164-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest9.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest9.xnb</Output>
+      <Time>2012-08-25T17:17:02.1918168-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest6.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest6.xnb</Output>
+      <Time>2012-08-25T17:17:02.2348192-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest7.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest7.xnb</Output>
+      <Time>2012-08-25T17:17:02.3198241-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon4Chest8.xml</Source>
+      <Name>NPCMapCharacters\Dungeon4Chest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon4Chest8.xnb</Output>
+      <Time>2012-08-25T17:17:02.4458313-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest19.xml</Source>
+      <Name>NPCMapCharacters\OpenChest19</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest19.xnb</Output>
+      <Time>2012-08-25T17:17:02.3988286-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest23.xml</Source>
+      <Name>NPCMapCharacters\OpenChest23</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest23.xnb</Output>
+      <Time>2012-08-25T17:17:02.3148238-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest20.xml</Source>
+      <Name>NPCMapCharacters\OpenChest20</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest20.xnb</Output>
+      <Time>2012-08-25T17:17:02.4088292-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest21.xml</Source>
+      <Name>NPCMapCharacters\OpenChest21</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest21.xnb</Output>
+      <Time>2012-08-25T17:17:02.1818162-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\OpenChest22.xml</Source>
+      <Name>NPCMapCharacters\OpenChest22</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\OpenChest22.xnb</Output>
+      <Time>2012-08-25T17:17:02.2278188-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest1.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest1</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest1.xnb</Output>
+      <Time>2012-08-25T17:17:02.2328191-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest9.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest9</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest9.xnb</Output>
+      <Time>2012-08-25T17:17:02.2398195-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest2.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest2.xnb</Output>
+      <Time>2012-08-25T17:17:02.317824-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest3.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest3.xnb</Output>
+      <Time>2012-08-25T17:17:02.4128294-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest4.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest4.xnb</Output>
+      <Time>2012-08-25T17:17:02.1868165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest5.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest5.xnb</Output>
+      <Time>2012-08-25T17:17:02.2358193-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest6.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest6.xnb</Output>
+      <Time>2012-08-25T17:17:02.3228242-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest7.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest7</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest7.xnb</Output>
+      <Time>2012-08-25T17:17:02.4478314-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Dungeon6Chest8.xml</Source>
+      <Name>NPCMapCharacters\Dungeon6Chest8</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Dungeon6Chest8.xnb</Output>
+      <Time>2012-08-25T17:17:02.1948169-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\AstalClerk.xml</Source>
+      <Name>NPCMapCharacters\AstalClerk</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\AstalClerk.xnb</Output>
+      <Time>2012-08-31T18:39:21.9842482-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmithInvisible.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmithInvisible</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmithInvisible.xnb</Output>
+      <Time>2012-09-10T02:45:40.5098851-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmithInvisible3.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmithInvisible3</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmithInvisible3.xnb</Output>
+      <Time>2012-09-10T02:45:40.5108851-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmithInvisible2.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmithInvisible2</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmithInvisible2.xnb</Output>
+      <Time>2012-09-10T02:45:40.5048848-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmithInvisible6.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmithInvisible6</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmithInvisible6.xnb</Output>
+      <Time>2012-09-10T02:45:40.5058849-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmithInvisible4.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmithInvisible4</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmithInvisible4.xnb</Output>
+      <Time>2012-09-10T02:45:40.4988845-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\MasterBlacksmithInvisible5.xml</Source>
+      <Name>NPCMapCharacters\MasterBlacksmithInvisible5</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\MasterBlacksmithInvisible5.xnb</Output>
+      <Time>2012-09-10T02:45:40.4998845-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubKyle.xml</Source>
+      <Name>NPCMapCharacters\StubKyle</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubKyle.xnb</Output>
+      <Time>2012-09-13T02:37:52.0186741-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubGlen.xml</Source>
+      <Name>NPCMapCharacters\StubGlen</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubGlen.xnb</Output>
+      <Time>2012-09-13T02:37:52.0266746-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubRyan.xml</Source>
+      <Name>NPCMapCharacters\StubRyan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubRyan.xnb</Output>
+      <Time>2012-09-13T02:37:52.017674-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubGerren.xml</Source>
+      <Name>NPCMapCharacters\StubGerren</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubGerren.xnb</Output>
+      <Time>2012-09-13T02:37:52.0216743-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubDavid.xml</Source>
+      <Name>NPCMapCharacters\StubDavid</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubDavid.xnb</Output>
+      <Time>2012-09-13T02:37:52.0256745-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubMichael.xml</Source>
+      <Name>NPCMapCharacters\StubMichael</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubMichael.xnb</Output>
+      <Time>2012-09-13T02:37:52.0226743-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubJonathan.xml</Source>
+      <Name>NPCMapCharacters\StubJonathan</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubJonathan.xnb</Output>
+      <Time>2012-09-13T02:37:52.0246744-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubMatt.xml</Source>
+      <Name>NPCMapCharacters\StubMatt</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubMatt.xnb</Output>
+      <Time>2012-09-13T02:37:52.0236744-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\StubJames.xml</Source>
+      <Name>NPCMapCharacters\StubJames</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\StubJames.xnb</Output>
+      <Time>2012-09-13T02:37:52.0406754-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\ArlanInjured.xml</Source>
+      <Name>NPCMapCharacters\ArlanInjured</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\ArlanInjured.xnb</Output>
+      <Time>2012-09-13T02:37:52.0206742-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\Malticar.xml</Source>
+      <Name>NPCMapCharacters\Malticar</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\Malticar.xnb</Output>
+      <Time>2012-09-19T17:29:00.8456037-07:00</Time>
+    </Item>
+    <Item>
+      <Source>NPCMapCharacters\InjuredCara.xml</Source>
+      <Name>NPCMapCharacters\InjuredCara</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\NPCMapCharacters\InjuredCara.xnb</Output>
+      <Time>2012-09-19T17:29:00.8356037-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B46C0A76-03E7-457A-8F1D-7C46E02F5243}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaCharacters\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaCharacters\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\bin\x86\Debug\MyQuest.dll</Key>
+        <Value>2013-02-13T21:30:41.3091025-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-05T16:02:09.7469356-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

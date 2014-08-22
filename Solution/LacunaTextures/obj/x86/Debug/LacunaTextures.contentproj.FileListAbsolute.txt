@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaTextures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaTextures\obj\x86\Debug\ResolveAssemblyReference.cache

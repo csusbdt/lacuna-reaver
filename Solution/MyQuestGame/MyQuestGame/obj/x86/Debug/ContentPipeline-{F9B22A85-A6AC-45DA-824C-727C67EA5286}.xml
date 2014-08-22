@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Huge.spritefont</Source>
+      <Name>Huge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\Huge.xnb</Output>
+      <Time>2012-04-04T16:55:48-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.resx</Key>
+        <Value>2012-06-01T18:04:32.8880122-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.es.resx</Key>
+        <Value>2012-05-06T02:59:13.3994287-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.fr.resx</Key>
+        <Value>2012-06-01T18:04:32.3509815-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hans.resx</Key>
+        <Value>2012-05-16T13:27:43.7610988-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hant.resx</Key>
+        <Value>2012-06-01T18:04:32.3529816-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Large.spritefont</Source>
+      <Name>Large</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\Large.xnb</Output>
+      <Time>2012-04-04T16:55:48-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.resx</Key>
+        <Value>2012-06-01T18:04:32.8880122-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.es.resx</Key>
+        <Value>2012-05-06T02:59:13.3994287-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.fr.resx</Key>
+        <Value>2012-06-01T18:04:32.3509815-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hans.resx</Key>
+        <Value>2012-05-16T13:27:43.7610988-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hant.resx</Key>
+        <Value>2012-06-01T18:04:32.3529816-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Medium.spritefont</Source>
+      <Name>Medium</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\Medium.xnb</Output>
+      <Time>2012-04-04T16:55:48-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.resx</Key>
+        <Value>2012-06-01T18:04:32.8880122-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.es.resx</Key>
+        <Value>2012-05-06T02:59:13.3994287-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.fr.resx</Key>
+        <Value>2012-06-01T18:04:32.3509815-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hans.resx</Key>
+        <Value>2012-05-16T13:27:43.7610988-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hant.resx</Key>
+        <Value>2012-06-01T18:04:32.3529816-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Small.spritefont</Source>
+      <Name>Small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\Small.xnb</Output>
+      <Time>2012-04-04T16:55:48-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.resx</Key>
+        <Value>2012-06-01T18:04:32.8880122-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.es.resx</Key>
+        <Value>2012-05-06T02:59:13.3994287-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.fr.resx</Key>
+        <Value>2012-06-01T18:04:32.3509815-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hans.resx</Key>
+        <Value>2012-05-16T13:27:43.7610988-07:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuest\Strings.zh-Hant.resx</Key>
+        <Value>2012-06-01T18:04:32.3529816-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>zh_Small.spritefont</Source>
+      <Name>zh_Small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\zh_Small.xnb</Output>
+      <Time>2012-04-04T16:55:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>zh-Hant-Small.spritefont</Source>
+      <Name>zh-Hant-Small</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\zh-Hant-Small.xnb</Output>
+      <Time>2012-04-04T16:55:48-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F9B22A85-A6AC-45DA-824C-727C67EA5286}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaFonts\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaFonts\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.dll</Key>
+        <Value>2012-06-01T20:38:13.2903891-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-05T16:02:09.7469356-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

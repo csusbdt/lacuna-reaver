@@ -1,0 +1,6 @@
+LacunaFonts\Huge.xnb
+LacunaFonts\Large.xnb
+LacunaFonts\Medium.xnb
+LacunaFonts\Small.xnb
+LacunaFonts\zh_Small.xnb
+LacunaFonts\zh-Hant-Small.xnb

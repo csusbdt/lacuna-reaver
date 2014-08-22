@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaSounds\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaSounds\obj\x86\Debug\LacunaSounds.xml
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaSounds\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Lacuna Reaver\Solution\LacunaSounds\obj\x86\Debug\LacunaSounds.xml

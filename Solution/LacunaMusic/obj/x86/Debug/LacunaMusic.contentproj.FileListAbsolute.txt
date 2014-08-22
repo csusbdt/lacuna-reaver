@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaMusic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaMusic\obj\x86\Debug\LacunaMusic.xml
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaMusic\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Lacuna Reaver\Solution\LacunaMusic\obj\x86\Debug\LacunaMusic.xml
+F:\Lacuna Reaver\Solution\LacunaMusic\obj\x86\Debug\LacunaMusic.contentprojResolveAssemblyReference.cache

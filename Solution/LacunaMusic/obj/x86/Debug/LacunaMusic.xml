@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="MusicWaveBank">Wave Bank
+{
+    Name = MusicWaveBank;
+    Xbox File = Xbox\MusicWaveBank.xwb;
+    Windows File = Win\MusicWaveBank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Streaming = 1;
+    Seek Tables = 1;
+    Compression Preset Name = Compression Preset;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 1982172295;
+    PC Bank Last Modified High = 30246688;
+    Bank Last Revised Low = 1982172295;
+    Bank Last Revised High = 30246688;
+
+    Wave
+    {
+        Name = Kara;
+        File = ..\..\music\Kara.wav;
+        Build Settings Last Modified Low = 3907521621;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 6350400;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 14344832;
+            Last Modified High = 30246433;
+        }
+    }
+
+    Wave
+    {
+        Name = Labyrinth;
+        File = ..\..\music\Labyrinth.wav;
+        Build Settings Last Modified Low = 3907531621;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 5210588;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 614344832;
+            Last Modified High = 30246433;
+        }
+    }
+
+    Wave
+    {
+        Name = MageTown;
+        File = ..\..\music\MageTown.wav;
+        Build Settings Last Modified Low = 3907531621;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 2605296;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1124344832;
+            Last Modified High = 30246433;
+        }
+    }
+
+    Wave
+    {
+        Name = Menu;
+        File = ..\..\music\Menu.wav;
+        Build Settings Last Modified Low = 3907531621;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 18522000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1744344832;
+            Last Modified High = 30246433;
+        }
+    }
+
+    Wave
+    {
+        Name = MushroomForest;
+        File = ..\..\music\MushroomForest.wav;
+        Build Settings Last Modified Low = 3907541622;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 4233600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2504344832;
+            Last Modified High = 30246433;
+        }
+    }
+
+    Wave
+    {
+        Name = Overworld;
+        File = ..\..\music\Overworld.wav;
+        Build Settings Last Modified Low = 3907541622;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 33868800;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1206964864;
+            Last Modified High = 30246666;
+        }
+    }
+
+    Wave
+    {
+        Name = PossessedLibrary;
+        File = ..\..\music\PossessedLibrary.wav;
+        Build Settings Last Modified Low = 3907551622;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 7257600;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4224344832;
+            Last Modified High = 30246433;
+        }
+    }
+
+    Wave
+    {
+        Name = SewnBog;
+        File = ..\..\music\SewnBog.wav;
+        Build Settings Last Modified Low = 3907551622;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 6773756;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 949377536;
+            Last Modified High = 30246434;
+        }
+    }
+
+    Wave
+    {
+        Name = Sleep;
+        File = ..\..\music\Sleep.wav;
+        Build Settings Last Modified Low = 3907551622;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 416396;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1419377536;
+            Last Modified High = 30246434;
+        }
+    }
+
+    Wave
+    {
+        Name = SnowTown;
+        File = ..\..\music\SnowTown.wav;
+        Build Settings Last Modified Low = 3907561623;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 8064000;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3029377536;
+            Last Modified High = 30246434;
+        }
+    }
+
+    Wave
+    {
+        Name = SwampTown;
+        File = ..\..\music\SwampTown.wav;
+        Build Settings Last Modified Low = 3907561623;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 5644800;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3789377536;
+            Last Modified High = 30246434;
+        }
+    }
+
+    Wave
+    {
+        Name = Victory;
+        File = ..\..\music\Victory.wav;
+        Build Settings Last Modified Low = 3907561623;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 6555252;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 44410240;
+            Last Modified High = 30246435;
+        }
+    }
+
+    Wave
+    {
+        Name = Will;
+        File = ..\..\music\Will.wav;
+        Build Settings Last Modified Low = 3907571623;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 34927200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1914410240;
+            Last Modified High = 30246435;
+        }
+    }
+
+    Wave
+    {
+        Name = AgoraOverworld;
+        File = ..\..\music\AgoraOverworld.wav;
+        Build Settings Last Modified Low = 3907571623;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 6451200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3274083200;
+            Last Modified High = 30246425;
+        }
+    }
+
+    Wave
+    {
+        Name = Arlan;
+        File = ..\..\music\Arlan.wav;
+        Build Settings Last Modified Low = 3907571623;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 3386880;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 369115904;
+            Last Modified High = 30246426;
+        }
+    }
+
+    Wave
+    {
+        Name = ArlanAgoraCastle;
+        File = ..\..\music\ArlanAgoraCastle.wav;
+        Build Settings Last Modified Low = 3907581624;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 5419044;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1109115904;
+            Last Modified High = 30246426;
+        }
+    }
+
+    Wave
+    {
+        Name = Battle;
+        File = ..\..\music\Battle.wav;
+        Build Settings Last Modified Low = 3907581624;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 13798400;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3079115904;
+            Last Modified High = 30246426;
+        }
+    }
+
+    Wave
+    {
+        Name = Blacksmith;
+        File = ..\..\music\Blacksmith.wav;
+        Build Settings Last Modified Low = 3907591625;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 822060;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3589115904;
+            Last Modified High = 30246426;
+        }
+    }
+
+    Wave
+    {
+        Name = BlindMansForest;
+        File = ..\..\music\BlindMansForest.wav;
+        Build Settings Last Modified Low = 3907591625;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 14394240;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 894148608;
+            Last Modified High = 30246427;
+        }
+    }
+
+    Wave
+    {
+        Name = BlindMansTown;
+        File = ..\..\music\BlindMansTown.wav;
+        Build Settings Last Modified Low = 3907591625;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 7526400;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3704148608;
+            Last Modified High = 30246427;
+        }
+    }
+
+    Wave
+    {
+        Name = BossBattle;
+        File = ..\..\music\BossBattle.wav;
+        Build Settings Last Modified Low = 3907601625;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 7526400;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 219181312;
+            Last Modified High = 30246428;
+        }
+    }
+
+    Wave
+    {
+        Name = Castle;
+        File = ..\..\music\Castle.wav;
+        Build Settings Last Modified Low = 3907611626;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 8467200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 769181312;
+            Last Modified High = 30246428;
+        }
+    }
+
+    Wave
+    {
+        Name = ChepetawaBoss;
+        File = ..\..\music\ChepetawaBoss.wav;
+        Build Settings Last Modified Low = 3907611626;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 18473892;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4159246720;
+            Last Modified High = 30246430;
+        }
+    }
+
+    Wave
+    {
+        Name = FinalBossPT1;
+        File = ..\..\music\FinalBossPT1.wav;
+        Build Settings Last Modified Low = 3907621626;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 15182568;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1034279424;
+            Last Modified High = 30246431;
+        }
+    }
+
+    Wave
+    {
+        Name = FinalBossPT2;
+        File = ..\..\music\FinalBossPT2.wav;
+        Build Settings Last Modified Low = 3907621626;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 17670680;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2044279424;
+            Last Modified High = 30246431;
+        }
+    }
+
+    Wave
+    {
+        Name = FinalBossTransition;
+        File = ..\..\music\FinalBossTransition.wav;
+        Build Settings Last Modified Low = 3907631627;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 5153948;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3414279424;
+            Last Modified High = 30246431;
+        }
+    }
+
+    Wave
+    {
+        Name = ForbiddenCavern;
+        File = ..\..\music\ForbiddenCavern.wav;
+        Build Settings Last Modified Low = 3907641627;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 15052800;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1819312128;
+            Last Modified High = 30246432;
+        }
+    }
+
+    Wave
+    {
+        Name = GameOver;
+        File = ..\..\music\GameOver.wav;
+        Build Settings Last Modified Low = 3907641627;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 6773760;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2699312128;
+            Last Modified High = 30246432;
+        }
+    }
+
+    Wave
+    {
+        Name = HealersVillage;
+        File = ..\..\music\HealersVillage.wav;
+        Build Settings Last Modified Low = 3907651628;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 2116800;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3749312128;
+            Last Modified High = 30246432;
+        }
+    }
+
+    Wave
+    {
+        Name = Inn;
+        File = ..\..\music\Inn.wav;
+        Build Settings Last Modified Low = 3907651628;
+        Build Settings Last Modified High = 30209022;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 822060;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4029312128;
+            Last Modified High = 30246432;
+        }
+    }
+
+    Wave
+    {
+        Name = Flashback;
+        File = ..\..\music\Flashback.wav;
+        Build Settings Last Modified Low = 2829538326;
+        Build Settings Last Modified High = 30209023;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 6451200;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3934279424;
+            Last Modified High = 30246431;
+        }
+    }
+
+    Wave
+    {
+        Name = AgoraCastleIntro;
+        File = ..\..\music\AgoraCastleIntro.wav;
+        Build Settings Last Modified Low = 3151329303;
+        Build Settings Last Modified High = 30218923;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 3032708;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1769115904;
+            Last Modified High = 30246426;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

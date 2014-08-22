@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>F:\Lacuna Reaver\Solution\LacunaSounds\</RootDirectory>
+      <LoggerRootDirectory>F:\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Lacuna Reaver\Solution\LacunaSounds\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Lacuna Reaver\Solution\MyQuestGame\MyQuestGame\bin\x86\Debug\LacunaSounds\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-26T21:51:46.7254037-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

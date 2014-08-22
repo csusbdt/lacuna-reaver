@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaFonts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaFonts\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Lacuna Reaver\Solution\LacunaFonts\obj\x86\Debug\LacunaFonts.contentprojResolveAssemblyReference.cache

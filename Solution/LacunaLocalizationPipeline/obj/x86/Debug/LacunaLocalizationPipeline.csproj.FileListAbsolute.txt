@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.dll
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.pdb
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.dll
+C:\Users\user\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.pdb
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.dll
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.pdb
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.dll
+C:\Users\MCSwedo\Desktop\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.pdb
+F:\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.dll
+F:\Lacuna Reaver\Solution\LacunaLocalizationPipeline\bin\x86\Debug\LacunaLocalizationPipeline.pdb
+F:\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.csprojResolveAssemblyReference.cache
+F:\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.dll
+F:\Lacuna Reaver\Solution\LacunaLocalizationPipeline\obj\x86\Debug\LacunaLocalizationPipeline.pdb

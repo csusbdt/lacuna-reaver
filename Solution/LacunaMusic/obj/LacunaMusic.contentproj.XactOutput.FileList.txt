@@ -1,0 +1,3 @@
+LacunaMusic\LacunaMusic.xgs
+LacunaMusic\MusicWaveBank.xwb
+LacunaMusic\MusicSoundBank.xsb
